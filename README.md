@@ -1,2 +1,3 @@
 # hello_world
-Create a new repository
+
+## JUST SAY HELLO ;)
