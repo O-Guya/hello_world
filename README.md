@@ -1,5 +1,5 @@
 # hello_world
 
-Hello world!I'm O-GUYA.
-Hope I can be a good engineer.
-Create & change.
+# Hello world!
+## This is O-GUYA.
+**Nice to meet you!**
