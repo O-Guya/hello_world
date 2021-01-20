@@ -1,2 +1,5 @@
 # hello_world
-Create a new repository
+
+Hello world!I'm O-GUYA.
+Hope I can be a good engineer.
+Create & change.
